@@ -18,7 +18,8 @@ function mergeSort(arr) {
 }
 
 console.log(mergeSort([6, 4]));
-console.log(mergeSort([5, 3, 7]));
+console.log(mergeSort([3, 5, 1]));
 console.log(mergeSort([7, 56, 32, 11, 29]));
 console.log(mergeSort([1, 5, 76, 14, 54, 12, 63]));
 console.log(mergeSort([99, -2, 54, 0.008, -76, 0.9, 36]));
+console.log(mergeSort([3, 12, 89, 54, 39, 23, 11, 39]));
